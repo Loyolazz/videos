@@ -98,25 +98,5 @@
         "Imagem": "./../../assets/thumbnail/alienação parental2.png",
         "Name": "Leonardo Amaral",
         "Type": "Pedagogia"
-    },
-    {
-        "id": 11,
-        "Titulo": "Conheça os temas relacionados ao desenvolvimento da linguagem infantil",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2Cf3830a206cd70c5e16e20ffc35464338%3Bhidden64np%3B3aiIJC62AH0GwTrmWB_85xACaYaH_hCxLlTHfWk2frLdr4djRDOpETjpstpAOsQYTB0weM1NPSKq-gKd_-q-WMWBqxxeXdLVDftCi8pQRHynlb4PZaoR4hGDfGd5ObvM9MGvHlF3C3NwKMgixmWrsE2ZzPjCQaWBkWK9NQttijzu1AHr0_cN6_JodS2z_eT0aJ4Sj3ksE5h1LJmtCZhCc6aKWnYbYW8p3bATH0hDDr0xhgjtGQ3P474DosD2lY0afpJ9NJgR4ZWcWqybK5sN3f5J80Zfvd5x5YIEOVENmaGWWd1l6-6fEWI%21/chunklist_b2406400.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/linguagem infantil.png",
-        "Name": "Christiane Menezes",
-        "Type": "Fonoaudiologia"
-    },
-    {
-        "id": 12,
-        "Titulo": "Conheça os temas relacionados aos direitos das crianças e dos adolescentes",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C878d722eb9bb3f75c7253356d539c712%3Bhidden64np%3B3aiIJSa2AH0CgComy0N4pZo7c2O4SHvtxs87fDyzEZO5SSlD8zZ7VVpvQxr7jYU8q0PqqSGrC8tiZssVQKnNFVtku2PaNsMo4XjiV-kHFeVqkWUpYCbcOIJRpSjJVY71cNjls6ZMUaKWwWGDDyCjTgBONKbnup2rvbk4ii_4iSLI8Wk110-2sRMutv0lG6KlU-KQ8RGjpN6y0w382dz3KAimykLJkOeA4vvXLavyyESB9cugf-DFLcF4qX1aYw52FOKV54a-wyy_gUvBDE1gz43Ex39qJDFJbChcOn-gb6IbXONqdoI%21/chunklist_b2216960.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/direitos das crianças e dos adolescentes.png",
-        "Name": "Andre Bendelack",
-        "Type": "Direito"
     }
 ]
