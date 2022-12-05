@@ -118,45 +118,5 @@
         "Imagem": "./../../assets/thumbnail/direitos das crianças e dos adolescentes.png",
         "Name": "Andre Bendelack",
         "Type": "Direito"
-    },
-    {
-        "id": 13,
-        "Titulo": "Conheça os temas que abordam os transtornos e as deficiências",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C703fae7685648acf4812a601bac6e4a4%3Bhidden64np%3B3aiIOiS2AG0egTqGz2BUgwO3zN6ILB1wEWHEwcIi803-Kb1CIrzbYxaPBFkkrXqRgKpULl50-oMzsP9kl_E_47ANb6PrLOKZPWc3en0VGGPakXmy7n9lMbty5WgLcI7A3ao0gZGDpXWaZOmVRl3prwqDv3Xf2xvDnHVMKsaYq4rsmf-pJ5XvIbVzOM_U3gPEsOQlAL7LqypofNYg2W0TFoxwGgc10pW8eV_LCOVMRT2rmtQCNdBCEeq3MTF7Wh-DWYOw8SHVpyICcWGJaEVOkrLGSz2cS59Uckj_g1UcXefKF4u1/chunklist_b4499456.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/transtornos e as deficiências.png",
-        "Name": "Maria do Ceu",
-        "Type": "Pedagogia"
-    },
-    {
-        "id": 14,
-        "Titulo": "Conheça os temas relacionados a educação, saúde da mulher e da criança",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C522d9a4df213dd4e0fea3bd3c2edfe7b%3Bhidden64np%3B3aiIJCS2QG0CwSJGBuAlN2a1U5VRrb5laXDoerS7vcmzK-S4YdtkMQhr52cogdkecEnMEmWwYlelDB9nKtG5EqZEAgw9_aH19arEzhNCmZ_zFqHdNwLfq87rTgw4TvkIG2rHIHyWHc-nZSHsW4DXYLmjex-UgDP8mlNlNOK_zFAWVRG8_lObiW7BeiD4AkAG1TZLclCMgmL8sbKbmOBlPgCs8pV_Tvs9aFXXCtuBgvPZjSGZkpmD6upoGZqcIjGmCC267VdCPEe1mYuvoLfzMolWWLcpS1QrbU9jUps9wbgDOPAi4SrP/chunklist_b476160.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/saúde da mulher e da criança.png",
-        "Name": "Adrana de Sá",
-        "Type": "Saude"
-    },
-    {
-        "id": 15,
-        "Titulo": "Veja os temas que estão relacionados as etapas do desenvolvimento infantil",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C317c575b37f7fce474149b772c01ac76%3Bhidden64np%3B3aiIJCa2wHwChCrG2Lv4KnxGBeWRmT0q_ezWOpp3Cuje2eSx-1F4rOVzoHOppPcnaHK_Fg4bDYt4Icf48GB3qIBU_PFxVU4hm4JYsvRcXRjM5KbPzOiYps18xO1QR-ByutxgYrnQyYO6snzvBzZuZ63JJvYFiaZ0maCvO96S7MydHDD4XDEGtoD8IiEIwD3B44H2y8-oNa_p1ibFOwdP5PvhlnNBgkaeL801IZSX4scTJn6xmIfwLCzYD6kjBAGpVrqoCbcPiRVEF34cXIxBViL6-hDEJ41f_gPYC06hqXwtJgM%21/chunklist_b1287168.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/etapas do desenvolvimento infantil.png",
-        "Name": "Sabrina Queiroz",
-        "Type": "Psicologia"
-    },
-    {
-        "id": 16,
-        "Titulo": "Veja os temas que estão relacionados a educação e o direito",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C106d177d56d543ae03daa10d6f24856e%3Bhidden64np%3B3aiIJCK2QG0CgjpGhin8WM0x_0W3ovlDSQ1dgRdUroEXrVSTh_TGtk92tMml4vkFHBuGHol3S-jiBq__DFf-lyW_AZQ26nqxQs369X3Go5NhlRiboyyg2Y45vmS6YwAAIEi-OP7AI_n3STznstwp4aalGLs7qVTCcamz0WOMYohXZ6UbBGC7TvldsiudiBQA5wxpHPDJiSI9uziINZunc3tXqyafdQqKnF5hMl-26p7E4ox1iKKq4Yl_fXcz8pLtPYzbD4kaPePVmm_m_FQP-xlBfKOSg-ELAd5ZUFWXLEr11w-ga9mX/chunklist_b1120256.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/educação e o direito.png",
-        "Name": "Jose Wagner Muniz",
-        "Type": "Direito"
     }
 ]
