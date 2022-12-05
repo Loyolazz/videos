@@ -48,55 +48,5 @@
         "Imagem": "./../../assets/thumbnail/postura ser prejudicada.png",
         "Name": "Andrezza Coelho",
         "Type": "Fisioterapia"
-    },
-    {
-        "id": 6,
-        "Titulo": "Cuidados com o peso da mochila",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2Ca3a391fd2e6889ab7ad89c28c6516854%3Bhidden64np%3B3aiIJFa2AH0CwTomy0N4pTbofKqgD4_dfOF3k0aDx7b94wTLNy6Z4vNHouXHfJc5SNUcGzXX8-uOJlGBS5mDJb6gqKzZZ80ZlZc0nxhP730LUGXVx4dFYwHaclwwt6Y4PcJ_cHoG3JZXRjIgqMH2To_uVJ3dM8Nkj61F65XWYKLTaAxuhM_SVw6rDMJSFshjg6GmqLDtMMVgbFW-_V9O2iHXpC_8GwPcL3oCcMN5nTqIVdf-QVwHSD4lWp6UDIoKlM8puNxrcOh9RhG0DkcUXXs-1MA-MUtFypeCB4j8qeQUGmnZkh8%21/chunklist_b1580032.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/peso da mochila.png",
-        "Name": "Bento Cistósosmo",
-        "Type": "Fisioterapia"
-    },
-    {
-        "id": "7",
-        "Titulo": "O impacto do uso do celular na saúde das crianças",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C5c36a3fb7930ec3c84e34438bc5cbc5f%3Bhidden64np%3B3aiIJCS2QG0CwSJGBuAlxESMHHjTerv9oPL37tQZcIxg91QNiXYtooUKwP9FUxwq-uTZzwYurHWOCXvoOzSs3wGfbH838LqSR1L4o-cxuJwR_Ce1megG9_tK8hv8I81wxNIiOZsuy4U-n9Nzc6decH55gpQd8wTZgjov79Cgr9pTEduWTDpBpol74nG_BTiPx1Vi0gVROqAZ5RxYhJPlP0WwDqY_YPWFvFnRwZb1-mDDklE7HQ0PmCVTaFNhAg8Pv570xRZWFwdFJgEaLHG9WAb39Lp3zx6kWwRkJytHguipkahqlCooXw%21%21/chunklist_b760832.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/celular crianças.png",
-        "Name": "Lorena Duarte",
-        "Type": "Fisioterapia"
-    },
-    {
-        "id": 8,
-        "Titulo": "Conheça as áreas de orientação nas áreas do direito e do desenvolvimento infantil",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C86a748c9bea371a2ce426af3d3f1c68e%3Bhidden64np%3B3aiIJS6yAH0CwTrmWEmKSydwHnjfxI7qKIxU17NfduWhkNFrTVF-lhw4Ob118FYFYuOaHMUruKV1s0PjxVpr6yyTDj7sAPTUXI203vK3gAgYfl2HY6F75akKhhzgZ--KpJ9sg16U6Rm1rdOmW-cEVbIHIKDgi7805L9GPH8Bz5xwrfZwu5FYN55VLfk9M5MzlJqKWR0NYZvK50Agi7YDpgqEJKlw07zlAYU39h0irmgTTxr0kw-cHlxVKmAKUNHWCX4BqtlDaesymChWH8ULkBVMGBaFccSfby1pjln3ZgjAUeuNUL0LEQ%21%21/chunklist_b2028544.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/desenvolvimento infantil.png",
-        "Name": "Diversos",
-        "Type": "Direito" 
-    },
-    {
-        "id": 9,
-        "Titulo": "Conheça áreas de orientação na área da saúde e da tecnologia",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2C2958dfb3cdc2fad51af56cacc2324fad%3Bhidden64np%3B3aiIJKSyR30GxGoqXzcMNneET5Hs689W10cuNPYS6SVuirfG3eH4MM9VZalC762gjyMCnxDJcb2dqOegF53Gz7twCDxATF0vgf-ViDCRmM-Jt5V0sdrwRyMJ1D9yaKAajlAoC8Ujy620TiTAkp7W5e3uvDEk6lu9FxgCYrE8rOLIzo_Z7bEzw5-333yyM6Z1UbXW0Ua91MixBCDKY_kb-3Odd76Z2Z1brr36PQU3rUcUx2AqGif1gw6NwfTC6CLegWwPi8VsoHR7vTe0N_FMbXlfUbg6R_QYqW5XlyrskBeMAP6Yh5xTwg%21%21/chunklist_b742400.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/saúde e da tecnologia.png",
-        "Name": "Diversos",
-        "Type": "Saude"
-    },
-    {
-        "id": 10,
-        "Titulo": "Alienação parental - 2",
-        "Link": "https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B196%2C11345%2Cffa1e04b4a31789086ead683eca09d37%3Bhidden64np%3B3aiIOi6yQH0CgTrmWAkRrPRUOoI_F-kwNozUplwGsHIX04qJBf7M4i6I1LuvixlNC8r3cLv3zNWrocpnaiPOBkZ3Uz-LgycBaHE8AnxHj4oVET0wRxFKfkEkvK9yM0JW2NW5Bw7VvORqMe3wKcKfEYb6eqNUY6wxu5Fdy5b6O8S9RWkVLCoFbVjOQt6tvIKWZ6Wyq0J536NBzQXJ2JCVaQCwoFnzKUzNJLsksKZqXWjW21bGw79eS_1AkPw_eLYI26fCfKZbf4TKvV_6PNbSiLWRQvVqYqXDSxtYdd1-hJSfcG4k_6c%21/chunklist_b1854464.m3u8",
-        "Descrição": "Descrição AQUI",
-        "Localização": "Aracaju - SE",
-        "Imagem": "./../../assets/thumbnail/alienação parental2.png",
-        "Name": "Leonardo Amaral",
-        "Type": "Pedagogia"
     }
 ]
